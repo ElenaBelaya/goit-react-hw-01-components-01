@@ -4,7 +4,6 @@ export const Container = styled.div`
 display: flex;
 padding: 20px 30px;
 `
-
 export const ProfileBox = styled.div`
 width: calc(50% - 30px);
 margin-right: 60px;
